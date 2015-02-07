@@ -51,3 +51,6 @@ gem 'font-awesome-rails'
 
 #Install Simple Form
 gem 'simple_form'
+
+#Install Devise
+gem 'devise'
