@@ -54,3 +54,6 @@ gem 'simple_form'
 
 #Install Devise
 gem 'devise'
+
+#Install Auto_html
+gem 'auto_html'
